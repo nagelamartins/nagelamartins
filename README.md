@@ -38,7 +38,7 @@ Estes projetos representam minha jornada ativa de aprendizado. Cada repositório
 
 * Sou movida a música, e completamente viciada em Metal, Rock e na música ruim dos anos 1980; 😂
   
-* Adoro desenhar, embora seja um hobbie que eu sempre prometo que vou praticar com mais frequência; 🎨
+* Adoro desenhar, embora seja um hobby que eu sempre prometo que vou praticar com mais frequência; 🎨
   
 * Sou apaixonada por fantasia medieval, e a música do Condado sempre me arranca uma(s) lágrima(s). 🧝
 
