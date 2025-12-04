@@ -1,6 +1,6 @@
 ![Olá! Como vai? Meu nome é Nágela, muito prazer!](https://github.com/user-attachments/assets/74843a7c-6af5-4e63-825c-1a03c6a4013d)
 
-Sou estudante na UNIVESP, em transição de carreira para a área **Ciência de Dados** e apaixonada por tecnologia e aprendizado contínuo. 
+Sou estudante na UNIVESP, em transição de carreira para a área de **Ciência de Dados** e apaixonada por tecnologia e aprendizado contínuo. 
 Minha trajetória profissional no setor público me capacitou em processos de coleta, organização e validação de dados primários em larga escala. Hoje, transfiro essa expertise em qualidade de informação 
 para a área de Ciência de Dados.
 
