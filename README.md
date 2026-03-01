@@ -30,8 +30,6 @@ Estes projetos representam minha jornada ativa de aprendizado. Cada repositório
 
 * **`diario-de-inspiracoes`:** Projeto prático no **Microsoft Azure Cloud** que aplica **Engenharia de Prompt** e integrações (e-mail) para criar um agente de IA;
 
-* **`estatistica-probabilidade`:** Criação de um site (HTML/CSS) para **consolidar e comunicar** conceitos de **Estatística e Probabilidade**, demonstrando base científica e comunicação técnica.
-
 * **`Alura-7DaysOfCode-Python_Pandas`:** Desenvolvimento de uma análise exploratória com Pandas, integrando múltiplas fontes de dados (CSV, Parquet, JSON), aplicando tratamento de inconsistências, manipulação temporal e visualização (Matplotlib/Seaborn), com foco em organização, tipagem correta e apresentação de resultados (Styler/HTML).
 
 ---
