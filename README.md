@@ -1,4 +1,5 @@
-![Olá! Como vai? Meu nome é Nágela, muito prazer!](https://github.com/user-attachments/assets/74843a7c-6af5-4e63-825c-1a03c6a4013d)
+<img width="980" height="350" alt="Capa_GitHub (1)" src="https://github.com/user-attachments/assets/a2287546-7bce-48f6-a2af-c336fb5d3742" />
+
 
 Sou estudante na UNIVESP, em transição de carreira para a área de **Ciência de Dados** e apaixonada por tecnologia e aprendizado contínuo. 
 Minha trajetória profissional no setor público me capacitou em processos de coleta, organização e validação de dados primários em larga escala. Hoje, transfiro essa expertise em qualidade de informação 
