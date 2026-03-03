@@ -1,4 +1,5 @@
-<img width="980" height="350" alt="Capa_GitHub (1)" src="https://github.com/user-attachments/assets/a2287546-7bce-48f6-a2af-c336fb5d3742" />
+<img width="980" height="350" alt="Capa_GitHub" src="https://github.com/user-attachments/assets/cfae5d86-ae63-4ce1-ac7c-03763f946768" />
+
 
 
 Sou estudante na UNIVESP, em transição de carreira para a área de **Ciência de Dados** e apaixonada por tecnologia e aprendizado contínuo. 
