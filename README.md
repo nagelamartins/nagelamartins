@@ -27,13 +27,15 @@ Estes projetos representam minha jornada ativa de aprendizado. Cada repositório
 
 * **`mineracao_de_dados`:** Aplicação de algoritmos de **classificação, agrupamento (clustering) e regras de associação** para transformar dados brutos em conhecimento útil;
    
-* **`SQL-exercicios`:** Prática constante de **SQL** com um banco de dados fictício modelado;
+* **`SQL-exercicios`:** Prática de **SQL** com um banco de dados fictício modelado;
   
-* **`imersao_alura_dados_python`:** Análise de salários globais, realizando **limpeza, manipulação (Pandas)** e **visualização** (Matplotlib, Plotly) para extrair *insights* do mercado de dados;
-
 * **`diario-de-inspiracoes`:** Projeto prático no **Microsoft Azure Cloud** que aplica **Engenharia de Prompt** e integrações (e-mail) para criar um agente de IA;
 
-* **`Alura-7DaysOfCode-Python_Pandas`:** Desenvolvimento de uma análise exploratória com Pandas, integrando múltiplas fontes de dados (CSV, Parquet, JSON), aplicando tratamento de inconsistências, manipulação temporal e visualização (Matplotlib/Seaborn), com foco em organização, tipagem correta e apresentação de resultados (Styler/HTML).
+* **`Alura-7DaysOfCode-Python_Pandas`:** Desenvolvimento de uma análise exploratória com Pandas, integrando múltiplas fontes de dados (CSV, Parquet, JSON), aplicando tratamento de inconsistências, manipulação temporal e visualização (Matplotlib/Seaborn), com foco em organização, tipagem correta e apresentação de resultados (Styler/HTML);
+
+* **`Agente-IA-WomakerCode`:** Agente de IA baseado no padrão ReAct, desenvolvido para estudos após o workshop da WoMakersCode. Filtra notícias do ecossistema de Dados, conecta tendências a fundamentos técnicos e gera relatórios em PDF com os principais insights obtidos nessa pesquisa;
+
+* **`governanca-ti-memoria-institucional`:** Estudo de caso sobre governança de TI e memória institucional no setor público. A análise utiliza dados públicos para investigar como a centralização do conhecimento pode contribuir para a continuidade dos processos administrativos, integrando o uso de bibliotecas Python para análise, classificação e visualização de dados.
 
 ---
 
