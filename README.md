@@ -1,4 +1,5 @@
-<img width="980" height="350" alt="Capa_GitHub" src="https://github.com/user-attachments/assets/cfae5d86-ae63-4ce1-ac7c-03763f946768" />
+<img width="980" height="350" alt="Banner_GitHub" src="https://github.com/user-attachments/assets/bb760595-7e40-41cc-94e9-c8e344a5c06f" />
+
 
 
 
