@@ -1,56 +1,59 @@
-<img width="980" height="350" alt="Banner_GitHub" src="https://github.com/user-attachments/assets/bb760595-7e40-41cc-94e9-c8e344a5c06f" />
+<img align="right" width="300" src="notebook.png" alt="Ilustração de um notebook com gráfico de barras">
 
+<h3>Olá! Como vai? Meu nome é Nágela, muito prazer!</h3>
 
-
-
-Sou estudante na UNIVESP, em transição de carreira para a área de **Ciência de Dados** e apaixonada por tecnologia e aprendizado contínuo. 
-Minha trajetória profissional no setor público me capacitou em processos de coleta, organização e validação de dados primários em larga escala. Hoje, transfiro essa expertise em qualidade de informação 
-para a área de Ciência de Dados.
+Sou estudante na UNIVESP, em transição de carreira para a área de Ciência de Dados e apaixonada por tecnologia e aprendizado contínuo. Minha trajetória profissional no setor público me capacitou em processos de coleta, organização e validação de dados primários em larga escala. Hoje, transfiro essa expertise em qualidade de informação para a área de Ciência de Dados.
 
 Estou sempre em evolução, buscando transformar curiosidade em projetos reais e conhecimento em prática.
+
 
 ---
 
 ## 🛠️ Hard Skills em Destaque
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Mineração de Dados](https://img.shields.io/badge/Data_Mining-555?style=for-the-badge&labelColor=555&color=9b59b6&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSJjdXJyZW50Q29sb3IiIGQ9Ik00OTYgMjU2YTI0MCAyNDAgMCAxIDEtNDgwIDBaTTI1NiA1MTJhMjU2IDI1NiAwIDEgMCAwLTUxMmMxMTYuMiAwIDIxNi4xIDgwLjUgMjQ1LjIgMTkwLjVINDY0YTIyNCAyMjQgMCAwIDEtMjA4IDIwNS40VjM2OGEzMiAzMiAwIDAgMS02NCAwVjQ2NC4xYzI4LjMgMy44IDU4LjMgNS45IDkwIDUuOWEzMiAzMiAwIDAgMCAwLTY0aC0zMnYtOTZhMzIgMzIgMCAwIDEtNjQtNjR2NjRINDh2LTI0YzI2LjYtMzMgNTQuNy02My4zIDgyLjMtOTJsMzEuNS0zMS41YTMyIDMyIDAgMCAwIDAgLTQ1LjNWNDhIMjU2VjI0Yy00MS42IDAtODAuOSA3LjMtMTE2LjIgMjAuNVY2NGExNiAxNiAwIDAgMCAwIDMySDI1NnEwIDguNC00LjcgMTYuM2wtOTYgMTYwYTE2IDE2IDAgMCAwIDAgMTYuOGw5NiAxNjBhMTYgMTYgMCAwIDAgMCAxNi44VjQ2NGgxNjB2LTY0aDY0di00OGg4MGMzMyAwIDY0IDYuOCA5NiAyMC41VjQ3My43Yy0yOC40IDEwLjQtNTguNSA0LjEtODkuNyAxMC40WiIvPjxwYXRoIGZpbGw9ImN1cnJlbnRDb2xvciIgZD0iTTE5MiAyMjRhMzIgMzIgMCAxIDAgNjQgMCAzMiAzMiAwIDAgMC02NCAwWiIvPjwvc3ZnPg==)
-![Estatística](https://img.shields.io/badge/Estatística-626880?style=for-the-badge&logo=stats-models&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Mineração de Dados](https://img.shields.io/badge/Mineração_de_Dados-9b59b6?style=for-the-badge)
+![Estatística](https://img.shields.io/badge/Estatística-626880?style=for-the-badge)
 
 ---
 
-## 🎯 Portfólio em Destaque: Projetos e Aplicações
+## 🎯 Portfólio em Destaque
 
-Estes projetos representam minha jornada ativa de aprendizado. Cada repositório documenta a evolução dos meus estudos, transformando conceitos teóricos em código prático e documentação clara:
+Cada repositório documenta a evolução dos meus estudos, transformando teoria em código prático e documentação clara:
 
-* **`mineracao_de_dados`:** Aplicação de algoritmos de **classificação, agrupamento (clustering) e regras de associação** para transformar dados brutos em conhecimento útil;
-   
-* **`SQL-exercicios`:** Prática de **SQL** com um banco de dados fictício modelado;
-  
-* **`diario-de-inspiracoes`:** Projeto prático no **Microsoft Azure Cloud** que aplica **Engenharia de Prompt** e integrações (e-mail) para criar um agente de IA;
+* **[mineracao_de_dados](https://github.com/SEU-USUARIO/mineracao_de_dados):** classificação, agrupamento (clustering) e regras de associação para transformar dados brutos em conhecimento útil.
 
-* **`Alura-7DaysOfCode-Python_Pandas`:** Desenvolvimento de uma análise exploratória com Pandas, integrando múltiplas fontes de dados (CSV, Parquet, JSON), aplicando tratamento de inconsistências, manipulação temporal e visualização (Matplotlib/Seaborn), com foco em organização, tipagem correta e apresentação de resultados (Styler/HTML);
+* **[governanca-ti-memoria-institucional](https://github.com/SEU-USUARIO/governanca-ti-memoria-institucional):** estudo de caso com dados públicos sobre como a centralização do conhecimento ajuda na continuidade dos processos no setor público (Python para análise, classificação e visualização).
 
-* **`Agente-IA-WomakerCode`:** Agente de IA baseado no padrão ReAct, desenvolvido para estudos após o workshop da WoMakersCode. Filtra notícias do ecossistema de Dados, conecta tendências a fundamentos técnicos e gera relatórios em PDF com os principais insights obtidos nessa pesquisa;
+* **[Agente-IA-WomakerCode](https://github.com/SEU-USUARIO/Agente-IA-WomakerCode):** agente de IA (padrão ReAct) que filtra notícias do ecossistema de Dados, conecta tendências a fundamentos técnicos e gera relatórios em PDF.
 
-* **`governanca-ti-memoria-institucional`:** Estudo de caso sobre governança de TI e memória institucional no setor público. A análise utiliza dados públicos para investigar como a centralização do conhecimento pode contribuir para a continuidade dos processos administrativos, integrando o uso de bibliotecas Python para análise, classificação e visualização de dados.
+* **[diario-de-inspiracoes](https://github.com/SEU-USUARIO/diario-de-inspiracoes):** agente de IA no Microsoft Azure Cloud, com Engenharia de Prompt e integração por e-mail.
+
+* **[Alura-7DaysOfCode-Python_Pandas](https://github.com/SEU-USUARIO/Alura-7DaysOfCode-Python_Pandas):** análise exploratória com Pandas, integrando CSV, Parquet e JSON, com tratamento de inconsistências e visualização (Matplotlib/Seaborn).
+
+* **[SQL-exercicios](https://github.com/SEU-USUARIO/SQL-exercicios):** prática de SQL com um banco de dados fictício modelado.
 
 ---
 
 ## ✨ Paixões além do Código
 
-* Sou movida a música, e completamente viciada em Metal, Rock e na música ruim dos anos 1980; 😂
-  
-* Adoro desenhar, embora seja um hobby que eu sempre prometo que vou praticar com mais frequência; 🎨
-  
-* Sou apaixonada por fantasia medieval, e a música do Condado sempre me arranca uma(s) lágrima(s). 🧝
+* 🎸 Sou movida a música e completamente viciada em Metal, Rock e na música ruim dos anos 1980 😂
+
+* 🎨 Adoro desenhar, embora seja um hobby que eu sempre prometo praticar com mais frequência.
+
+* 🧝 Sou apaixonada por fantasia medieval, e a música do Condado sempre me arranca uma(s) lágrima(s).
+
+---
 
 ## 📧 Conecte-se comigo!
+
 Vamos conversar? Estou sempre aberta a conexões e oportunidades!
 
 * [LinkedIn](https://www.linkedin.com/in/nagelamartins/)
 * [E-mail](mailto:nagela.msouza@gmail.com)
 
-*Obrigada pela visita!💛*
+*Obrigada pela visita! 💛*
